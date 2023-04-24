@@ -73,6 +73,6 @@ public class Participante {
         		", aciertos: " + acierto +
         		", puntos = " + puntos +
         		", en un total de: " + jugada + " apuestas. " +
-        		"Puntos extras por aciertos: " + extra + " puntos";
+        		"Puntos extras por acertar todas las apuestas: " + extra + " puntos";
     }
 }
